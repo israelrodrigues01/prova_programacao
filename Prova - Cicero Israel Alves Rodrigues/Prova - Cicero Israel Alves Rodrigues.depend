@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664463813 source:c:\users\ufca\desktop\liberada\prova - cicero israel alves rodrigues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
